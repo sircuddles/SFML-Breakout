@@ -1,6 +1,8 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
+// ADDING FOR GIT WEOEOWW
+
 void main () {
 	sf::RenderWindow gameWindow(sf::VideoMode(1024, 768, 32), "SFML Breakout");
 
